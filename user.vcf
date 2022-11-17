@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Lee;Joshua;;;
+FN: Joshua  Lee 
+ORG:Mothership.sg;
+TITLE:Manager\nEvent Marketing & Media Partnerships
+EMAIL;type=INTERNET;type=WORK;type=pref:joshua.lee@mothership.sg
+TEL;type=WORK;type=VOICE:+65 8838 5594
+item1.ADR;type=WORK;type=pref:;;30A Kallang Place,#05-05;;;339213;Singapore
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:https://mothership.sg
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
